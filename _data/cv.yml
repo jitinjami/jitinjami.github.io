@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Naga Venkata Sai Jitin Jami
     - name: Languages
-      value: English, German
+      value: English, German, Telugu, Hindi
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MSc Computational Engineering
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Coursework - Pattern Recognition, Pattern Analysis, Machine Learning Time Series, Numerical Methods
+        - title: Projects -
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Masters in Computational Science
+      institution: Università della Svizzera italiana, Lugano, Switzerland
+      year: 2021 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Coursework - Machine Learning, Deep Learning Lab, High Performance Computing, Graph Deep Learning
+        - title: Projects - 
+          contents:
+            - Sub-description 1.
+            - Sub-description 2.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: MaRS Scholarship Researcher (Master Thesis)
+      institution: Institute for Computing, USI, Lugano
+      year: 07 2022 - 02 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Improve Locational Marginal Price prediction time using Machine Learning and Deep Learning.
+        - Generating ground truth data with MATPOWER and MOSEK on PGLib-OPF electricity grids.
+        - Tested popular machine learning models on various \textit{n-1} security criterion cases
+
+    - title: Research Assistant
+      institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
+      year: 03 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
+        - Working <a href="https://www.mad.tf.fau.de/research/projects/tracking-in-the-deutsche-museum-nurnberg/">Deutsche Museum project</a>, demonstrating AI's power in Nuremberg's futuristic museum.
+        - Researching various Computer Vision models for Age detection using multi ethnic facial datasets.
+        - Data annotation using CVAT for Multi-camera multi-object tracking.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Data Science Werkstudent
+      institution: Streem.ai, Berlin
+      year: 05 2021 - 10 2021
       description:
+        - Researching statistical models for anomaly detection in time series data for manufacturing companies.
+        - Creating benchmarking systems to test performance of baseline OneClass Classifiers using synthetically generated datasets designed to test anomaly detection performance.
+        - Exploring model explainability using SHAP library for deriving feature responsibility.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Aero-Acoustics CFD Engineer
+      institution: Quest Global, Bangalore
+      year: 07 2018 - 09 2020
+      description:
+        - Predicting Low-Speed Fan noise using Fourier Modal Analysis to improve jet engine design to stay within noise regulations
+        - Running LES simulations (Linear and Non-Linear Unsteady) to capture Fourier static pressure levels in the LP Compressor domain
+        - Achieved 97% accuracy compared to experimental data from Derby, UK facilities.
 
-- title: Open Source Projects
+- title: Scholarships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+        - <a href="https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation">Masters Research Scholarship</a> 
+        - <a href="https://erasmus-plus.ec.europa.eu">ERASMUS Exchange Scholarship</a>
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Machine Learning
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Time Series Forecasting
+        - Optimization
+        - Physics Inspired Machine Learning
+        - Graph Deep Learning
+    - title: High Performance Computing
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Parallization of Machine Learning algorithms
+        - Parallization of Numerical Methods

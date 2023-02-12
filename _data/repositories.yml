@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jitinjami
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
+  - jitinjami/MathematicalReasoningWithTransformers
+  - jitinjami/CNNCIFAR10
+  - jitinjami/PolynomialRegresssion
+  - jitinjami/TextGenerationWithLSTM
+  - jitinjami/MultiLayerPerceptron
+  - jitinjami/QP_Portfolio
   - mathjax/MathJax
