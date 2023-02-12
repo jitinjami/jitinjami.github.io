@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Master Thesis student at <a href="https://www.ci.inf.usi.ch">Institute of Computing (CI)</a> at USI, Lugano. <br>Research Assistant for <a href="https://www.mad.tf.fau.de/research/projects/tracking-in-the-deutsche-museum-nurnberg/">Deutsche Museum project</a> at <a href="https://www.mad.tf.fau.de">Machine Learning and Data Analytics Lab</a>, FAU, Erlangen.
 
