@@ -2,9 +2,8 @@ github_users:
   - jitinjami
 
 github_repos:
+  - jitinjami/AgeEstimationUTK
   - jitinjami/MathematicalReasoningWithTransformers
-  - jitinjami/CNNCIFAR10
-  - jitinjami/PolynomialRegresssion
   - jitinjami/TextGenerationWithLSTM
-  - jitinjami/MultiLayerPerceptron
   - jitinjami/QP_Portfolio
+  - jitinjami/TimeSeriesForecastingwithGNN

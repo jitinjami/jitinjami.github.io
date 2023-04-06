@@ -16,8 +16,8 @@
         - Coursework - Pattern Recognition, Pattern Analysis, Machine Learning Time Series, Numerical Methods
         - title: Projects -
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - <a href="https://github.com/jitinjami/AgeEstimationUTK">Age Estimation with CNN</a>
+            - <a href="https://github.com/jitinjami/TimeSeriesForecastingwithGNN">Time Series Forecasting with GNN</a>
     - title: Masters in Computational Science
       institution: Università della Svizzera italiana, Lugano, Switzerland
       year: 2021 - Present
@@ -25,23 +25,31 @@
         - Coursework - Machine Learning, Deep Learning Lab, High Performance Computing, Graph Deep Learning
         - title: Projects - 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
+            - <a href="https://github.com/jitinjami/MathematicalReasoningWithTransformers">Mathematical Reasoning with Transformers</a>
+            - <a href="https://github.com/jitinjami/TextGenerationWithLSTM">Text Generation with LSTM</a>
 
 - title: Experience
   type: time_table
   contents:
+    - title: Computational Science Werkstudent
+      institution: Siemens Healthineers
+      year: 03 2023 - Present
+      description:
+        - Working in the DigitalTwin of the Heart project.
+        - Computational Modelling.
+        - Shape analysis.
+        - AI for recognition and segmentation.
     - title: MaRS Scholarship Researcher (Master Thesis)
       institution: Institute for Computing, USI, Lugano
       year: 07 2022 - 02 2023
       description:
         - Improve Locational Marginal Price prediction time using Machine Learning and Deep Learning.
         - Generating ground truth data with MATPOWER and MOSEK on PGLib-OPF electricity grids.
-        - Tested popular machine learning models on various \textit{n-1} security criterion cases
+        - Tested popular machine learning models on various (n-1) security criterion cases
 
     - title: Research Assistant
       institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
-      year: 03 2022 - Present
+      year: 03 2022 - 03 2023
       description:
         - Working <a href="https://www.mad.tf.fau.de/research/projects/tracking-in-the-deutsche-museum-nurnberg/">Deutsche Museum project</a>, demonstrating AI's power in Nuremberg's futuristic museum.
         - Researching various Computer Vision models for Age detection using multi ethnic facial datasets.
