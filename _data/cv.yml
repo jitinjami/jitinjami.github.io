@@ -35,31 +35,31 @@
       institution: Siemens Healthineers
       year: 03 2023 - Present
       description:
-        - Working in the DigitalTwin of the Heart project.
-        - Computational Modelling.
-        - Shape analysis.
-        - AI for recognition and segmentation.
+        - Contributor to the DigitalTwin of the Heart project to simulate Atrial Fibrilation.
+        - Computational Modelling of Left Atrium for Universal Atrial Coordinates in 2D.
+        - Successful generation of landmarks and geodesic paths to describe topology on a 2D map applicable to 70% of patients.
+        
     - title: MaRS Scholarship Researcher (Master Thesis)
       institution: Institute for Computing, USI, Lugano
       year: 07 2022 - 02 2023
       description:
-        - Improve Locational Marginal Price prediction time using Machine Learning and Deep Learning.
-        - Generating ground truth data with MATPOWER and MOSEK on PGLib-OPF electricity grids.
-        - Tested popular machine learning models on various (n-1) security criterion cases
+        - Improved Locational Marginal Price prediction time using Machine Learning and Deep Learning.
+        - Generated ground truth data with MATPOWER and MOSEK on PGLib-OPF electricity grids.
+        - Achieved maximum 5\% error rate when using popular machine learning models on various \textit{n-1} security criterion cases to predict LMP.
 
     - title: Research Assistant
       institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
       year: 03 2022 - 03 2023
       description:
-        - Working <a href="https://www.mad.tf.fau.de/research/projects/tracking-in-the-deutsche-museum-nurnberg/">Deutsche Museum project</a>, demonstrating AI's power in Nuremberg's futuristic museum.
-        - Researching various Computer Vision models for Age detection using multi ethnic facial datasets.
-        - Data annotation using CVAT for Multi-camera multi-object tracking.
+        - Research assistant on the <a \href{https://www.mad.tf.fau.de/research/projects/tracking-in-the-deutsche-museum-nurnberg/>Deutsche Museum Project</a>, to build an AI software for tracking visitors in a museum.
+        - Built Computer Vision models for Age detection using multi ethnic facial datasets to increase efficiency to 97\% on custom multi-ethnic test datasets.
+        - Carried out data annotation using CVAT that was further used training Computer Vision model for Multi-camera multi-object tracking.
 
     - title: Data Science Werkstudent
       institution: Streem.ai, Berlin
       year: 05 2021 - 10 2021
       description:
-        - Researching statistical models for anomaly detection in time series data for manufacturing companies.
+        - Researched statistical models for anomaly detection in time series data for manufacturing companies
         - Creating benchmarking systems to test performance of baseline OneClass Classifiers using synthetically generated datasets designed to test anomaly detection performance.
         - Exploring model explainability using SHAP library for deriving feature responsibility.
 
