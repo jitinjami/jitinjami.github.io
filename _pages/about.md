@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: 
-- Doctoral Researcher at <a href = "https://www.mad.tf.fau.de"> Machine Learning and Data Analytics Lab</a>.<br>
+- Doctoral Researcher at <a href = "https://www.mad.tf.fau.de"> Machine Learning and Data Analytics Lab</a> at FAU, Erlangen.<br>
 - Former Master Thesis student at <a href="https://www.ci.inf.usi.ch">Institute of Computing (CI)</a> at USI, Lugano.
 
 profile:
