@@ -9,9 +9,13 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD Computer Science
+      institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
+      year: 10 2023 - Present
+
     - title: MSc Computational Engineering
       institution: Friedrich-Alexander-Universität Erlangen-Nürnberg, Erlangen, Germany
-      year: 10 2020 - Present
+      year: 10 2020 - 09 2023
       description:
         - Coursework - Pattern Recognition, Pattern Analysis, Machine Learning Time Series, Numerical Methods
         - title: Projects -
@@ -20,7 +24,7 @@
             - <a href="https://github.com/jitinjami/TimeSeriesForecastingwithGNN">Time Series Forecasting with GNN</a>
     - title: Masters in Computational Science
       institution: Università della Svizzera italiana, Lugano, Switzerland
-      year: 09 2021 - 02 2023
+      year: 09 2021 - 09 2023
       description:
         - Coursework - Machine Learning, Deep Learning Lab, High Performance Computing, Graph Deep Learning
         - title: Projects - 
@@ -31,9 +35,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Doctoral Researcher
+      institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
+      year: 10 2023 - Present
+
     - title: Computational Science Werkstudent
       institution: Siemens Healthineers
-      year: 03 2023 - Present
+      year: 03 2023 - 09 2023
       description:
         - Contributor to the DigitalTwin of the Heart project to simulate Atrial Fibrilation.
         - Computational Modelling of Left Atrium for Universal Atrial Coordinates in 2D.
