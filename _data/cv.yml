@@ -38,6 +38,10 @@
     - title: Doctoral Researcher
       institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
       year: 10 2023 - Present
+      description:
+        - Wound image analysis with localization and tissue segmentation using Computer Vision.
+        - Chemical environment analysis from pH, O2 and CO2 sensors inside wound bandage to track wound recovery.
+        - Teaching Assistant for Digital Biosignal Analysis \& Seminar for Advanced Deep Learning for Time Series course.
 
     - title: Computational Science Werkstudent
       institution: Siemens Healthineers
@@ -92,9 +96,9 @@
   contents:
     - title: Machine Learning
       items: 
-        - Time Series Forecasting
-        - Optimization
-        - Physics Inspired Machine Learning
+        - Computer Vision
+        - Semi-Supervised Learning
+        - Longitudinal Analysis
         - Graph Deep Learning
     - title: High Performance Computing
       items:
