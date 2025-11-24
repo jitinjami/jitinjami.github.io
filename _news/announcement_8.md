@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2025-11-1 15:59:00-0400
+date: 2025-10-1 15:59:00-0400
 inline: true
 ---
 
-Paper titled <a href = "https://arxiv.org/abs/2509.21056v1">"**Stratify or Die: Rethinking Data Splits in Image Segmentation**"</a> accepted at <a href="https://neurips.cc/Conferences/2025">Neural Information Processing Systems [NeurIPS], San Diego, 2025</a>.
+Started new position at **Research Assistant** at <a href = "https://www.ai11.uni-bayreuth.de/en/index.html"> Chair of Ambient Assisted Living & Medical Assistance Systems</a> at University of Bayreuth.<br>.
