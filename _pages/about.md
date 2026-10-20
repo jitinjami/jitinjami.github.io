@@ -21,6 +21,8 @@ social: true  # includes social icons at the bottom of the page
 
 I'm Jitin, a Doctoral Researcher at FAU's <a href = "https://www.mad.tf.fau.de"> Machine Learning and Data Analytics Lab</a> in Erlangen since October 2023. Since November 2025, I am a Research Assistant at the <a href = "https://www.ai11.uni-bayreuth.de/en/index.html"> Chair of Ambient Assisted Living & Medical Assistance Systems</a> at the University of Bayreuth, headed by <a href="http://leutheuser.eu"> Prof. Dr. Heike Leutheuser </a>. 
 <br>
+My research focuses on AI-assisted chronic wound assessment and on making machine learning evaluation more reliable, in particular how the way we split data affects benchmark results in image segmentation and graph learning.
+<br>
 I'm actively involved in the <a href="https://www.mad.tf.fau.de/research/projects/swoddys-smart-wound-dressing-incorporating-dye-based-sensors/"> SWODDYS project </a>, a collaboration with <a href="https://www.ukr.de/en/"> Uniklinikum Regensburg </a> and <a href="https://www.presens.de"> PreSens GmbH</a>. The project is funded by <a href="https://www.forschungsstiftung.bayern.de"> Bayerische Forschungsstiftung </a>.
 <br>
 **Contact**: jitin [dot] jami [at] fau.de; jitin [dot] jami [at] uni-bayreuth.de

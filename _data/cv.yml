@@ -35,13 +35,16 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant
+      institution: Chair of Ambient Assisted Living & Medical Assistance Systems, University of Bayreuth
+      year: 11 2025 - Present
+
     - title: Doctoral Researcher
       institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
       year: 10 2023 - Present
       description:
         - Wound image analysis with localization and tissue segmentation using Computer Vision.
         - Chemical environment analysis from pH, O2 and CO2 sensors inside wound bandage to track wound recovery.
-        - Teaching Assistant for Digital Biosignal Analysis & Seminar for Advanced Deep Learning for Time Series course.
 
     - title: Computational Science Werkstudent
       institution: Siemens Healthineers
@@ -83,6 +86,68 @@
         - Running LES simulations (Linear and Non-Linear Unsteady) to capture Fourier static pressure levels in the LP Compressor domain
         - Achieved 97% accuracy compared to experimental data from Derby, UK facilities.
 
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Biomedical Signal Analysis
+      institution: FAU, Erlangen
+      year: WS 23/24, WS 24/25
+    - title: Biomedical Time Series Analysis
+      institution: University of Bayreuth
+      year: WS 24/25, WS 26/27
+    - title: Seminar - Advances in Deep Learning for Time Series
+      institution: FAU, Erlangen
+      year: SS 25, WS 25/26
+    - title: Time Series and Machine Learning
+      institution: University of Bayreuth
+      year: SS 25, SS 26
+    - title: Supervision of Master Projects, Seminars and Theses
+      institution: FAU, Erlangen & University of Bayreuth
+      year: 2023 - Present
+
+- title: Supervised Theses & Projects
+  type: time_table
+  contents:
+    - title: Representation Learning for Laparoscopic Imaging - A Study of Architectural Design and Multi-Level Knowledge Transfer
+      institution: Master Thesis - Aditya Parikh
+    - title: Are Click Explorations a Valid Alternative to Eye-Tracking?
+      institution: Master Thesis - Moumita Chakraborty
+    - title: EDTRS Method for Generating Superpixels for Dermatological Wound Images
+      institution: Master Project - Alisha Mund
+    - title: Exploring Active Learning for Wound Tissue Segmentation
+      institution: Master Project - Apu Das
+    - title: Evaluating Graph Neural Networks for Node Classification on Superpixel-Based Representations of Wound Images
+      institution: Master Project - Jule Lang
+    - title: Superpixel-Based Wound Segmentation with Frozen Vision Foundation Models and Graph Neural Network Heads
+      institution: Master Project - Ranganath Pujari
+
+- title: Academic Service
+  type: time_table
+  contents:
+    - title: Reviewer
+      institution: Neural Information Processing Systems (NeurIPS)
+      year: 2026
+
+- title: Posters
+  type: time_table
+  contents:
+    - title: <a href="https://jitinjami.github.io/stratify/static/pdfs/Poster.pdf">Stratify or Die - Rethinking Data Splits in Image Segmentation</a>
+      institution: NeurIPS 2025, San Diego
+      year: 2025
+    - title: <a href="/assets/pdf/CiVi.pdf">Introducing CicatrixVision (CiVi) Dataset - First steps into AI assisted Chronic Wound Assessment</a>
+      institution: MaD Conference 2025 & AI Day, University of Bayreuth 2025
+      year: 2025
+    - title: <a href="/assets/pdf/AIBEConf_Jami.pdf">Exploring Correlation Between Tissue Composition and Healing in Chronic Wounds</a>
+      institution: AIBE Conference 2024
+      year: 2024
+
+- title: Summer Schools
+  type: time_table
+  contents:
+    - title: <a href="https://ai4healthschool.org">AI4Health Summer School</a>, Paris
+      institution: Workshops on Causal ML (group of Prof. David Sontag), Computational Pathology (group of Prof. Jakob Nikolas Kather) and Diffusion Models for Medical Imaging (group of Dr. Ninon Burgos)
+      year: 2025
+
 - title: Scholarships
   type: time_table
   contents:
@@ -90,17 +155,3 @@
       items: 
         - <a href="https://haslerstiftung.ch/en/welcome-to-the-hasler-foundation">Masters Research Scholarship</a> 
         - <a href="https://erasmus-plus.ec.europa.eu">ERASMUS Exchange Scholarship</a>
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Machine Learning
-      items: 
-        - Computer Vision
-        - Semi-Supervised Learning
-        - Longitudinal Analysis
-        - Graph Deep Learning
-    - title: High Performance Computing
-      items:
-        - Parallelization of Machine Learning algorithms
-        - Parallelization of Numerical Methods

@@ -71,6 +71,23 @@
   code={https://github.com/jitinjami/SemanticStratification},
   website={https://jitinjami.github.io/stratify/},
   poster={https://jitinjami.github.io/stratify/static/pdfs/Poster.pdf},
+  abstract={Random splitting of datasets in image segmentation often leads to unrepresentative test sets, resulting in biased evaluations and poor model generalization. While stratified sampling has proven effective for addressing label distribution imbalance in classification tasks, extending these ideas to segmentation remains challenging due to the multi-label structure and class imbalance typically present in such data. Building on existing stratification concepts, we introduce Iterative Pixel Stratification (IPS), a straightforward, label-aware sampling method tailored for segmentation tasks. Additionally, we present Wasserstein-Driven Evolutionary Stratification (WDES), a novel genetic algorithm designed to minimize the Wasserstein distance, thereby optimizing the similarity of label distributions across dataset splits. We prove that WDES is globally optimal given enough generations. Using newly proposed statistical heterogeneity metrics, we evaluate both methods against random sampling and find that WDES consistently produces more representative splits. Applying WDES across diverse segmentation tasks, including street scenes, medical imaging, and satellite imagery, leads to lower performance variance and improved model evaluation. Our results also highlight the particular value of WDES in handling small, imbalanced, and low-diversity datasets, where conventional splitting strategies are most prone to bias.},
+  bibtex_show={true},
+  preview={stratify.png},
+  selected={true}
+}
+
+@inproceedings{jami2026homophily,
+  title={Not All Nodes Are Created Equal: Homophily-Aware Stratification for Stable GNN Evaluation},
+  author={Jami, Naga Venkata Sai Jitin and Altstidl, Thomas and Hoefler, Sebastian and Mueller, Jonas and Zanca, Dario and Eskofier, Bjoern and Leutheuser, Heike},
+  booktitle={Learning on Graphs Conference (LoG)},
+  year={2026},
+  abbr={LoG},
+  arxiv={2609.19210},
+  pdf={https://arxiv.org/pdf/2609.19210},
+  code={https://github.com/jitinjami/graph-strat},
+  preview={graph-strat.png},
+  abstract={Graph neural networks are widely used for transductive node classification, with accuracy typically measured on randomly drawn train/validation/test splits. Reported accuracy has been shown to shift substantially across different random splits of the same dataset, making published comparisons between architectures unreliable. The classical remedy in non-graph settings is stratified k-fold cross-validation, which ensures each test fold reflects the full class distribution of the dataset. We argue that class stratification alone is insufficient for graphs: nodes are not isolated but connected, and folds that differ in their distribution of local neighbourhood homophily expose the model to systematically different relational conditions that directly affect message-passing behaviour. The resulting cross-fold variation reflects the homophily composition of each split, inflating reported variance beyond what model behaviour alone would produce. To address this, we propose HpStrat, a topology-aware stratification procedure that treats node homophily as the primary stratification axis, aligning folds with respect to local relational consistency alongside the class marginal that standard stratification already controls. Stratifying on homophily alone does not guarantee class balance, so HpStrat incorporates class label as a secondary axis, preserving class representativeness as a natural consequence of the procedure. We evaluate HpStrat on a broad benchmark suite comprising 15 node-classification datasets spanning the full homophily spectrum and 7 GNN architectures. HpStrat achieves a mean stability rank of 1.49 compared to 2.31 for random k-fold, achieving the lowest mean stability rank on 13 of 15 datasets while preserving class balance close to class-stratified splits and substantially better than random. We argue that homophily-aware split construction merits broader adoption for GNN evaluation.},
   bibtex_show={true},
   selected={true}
 }
