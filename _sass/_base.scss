@@ -443,6 +443,20 @@ footer.sticky-bottom {
       display: flex;
       align-items: center;
     }
+
+    .card-title a {
+      color: inherit;
+    }
+
+    &:hover .card-title {
+      color: var(--global-theme-color);
+    }
+
+    // Keep the GitHub icon clickable above the card-wide stretched link
+    .github-icon a {
+      position: relative;
+      z-index: 2;
+    }
   }
 
   .grid-sizer, .grid-item {
