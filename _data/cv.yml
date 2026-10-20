@@ -36,11 +36,11 @@
   type: time_table
   contents:
     - title: Research Assistant
-      institution: Chair of Ambient Assisted Living & Medical Assistance Systems, University of Bayreuth
+      institution: Chair of Machine Learning in Medicine, University of Bayreuth
       year: 11 2025 - Present
 
     - title: Doctoral Researcher
-      institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
+      institution: Machine Learning and Data Analytics Lab, FAU Erlangen-Nürnberg
       year: 10 2023 - Present
       description:
         - Wound image analysis with localization and tissue segmentation using Computer Vision.
@@ -63,7 +63,7 @@
         - Achieved maximum 5% error rate when using popular machine learning models on various <i>n-1</i> security criterion cases to predict LMP.
 
     - title: Research Assistant
-      institution: Machine Learning and Data Analytics Lab, FAU, Erlangen
+      institution: Machine Learning and Data Analytics Lab, FAU Erlangen-Nürnberg
       year: 03 2022 - 03 2023
       description:
         - Research assistant on the <a href="https://www.mad.tf.fau.de/research/projects/tracking-in-the-deutsche-museum-nurnberg/">Deutsche Museum Project</a>, to build an AI software for tracking visitors in a museum.
@@ -90,19 +90,19 @@
   type: time_table
   contents:
     - title: Biomedical Signal Analysis
-      institution: FAU, Erlangen
+      institution: FAU Erlangen-Nürnberg
       year: WS 23/24, WS 24/25
     - title: Biomedical Time Series Analysis
       institution: University of Bayreuth
       year: WS 24/25, WS 26/27
     - title: Seminar - Advances in Deep Learning for Time Series
-      institution: FAU, Erlangen
+      institution: FAU Erlangen-Nürnberg
       year: SS 25, WS 25/26
     - title: Time Series and Machine Learning
       institution: University of Bayreuth
       year: SS 25, SS 26
     - title: Supervision of Master Projects, Seminars and Theses
-      institution: FAU, Erlangen & University of Bayreuth
+      institution: FAU Erlangen-Nürnberg & University of Bayreuth
       year: 2023 - Present
 
 - title: Supervised Theses & Projects
@@ -131,7 +131,7 @@
 - title: Posters
   type: time_table
   contents:
-    - title: <a href="https://jitinjami.github.io/stratify/static/pdfs/Poster.pdf">Stratify or Die - Rethinking Data Splits in Image Segmentation</a>
+    - title: <a href="/assets/pdf/stratify_poster.pdf">Stratify or Die - Rethinking Data Splits in Image Segmentation</a>
       institution: NeurIPS 2025, San Diego
       year: 2025
     - title: <a href="/assets/pdf/CiVi.pdf">Introducing CicatrixVision (CiVi) Dataset - First steps into AI assisted Chronic Wound Assessment</a>

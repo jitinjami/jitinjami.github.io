@@ -738,3 +738,8 @@ progress {
      display: block;
      height: inherit;
  }
+
+// Figures with transparent backgrounds (e.g. plots with black text) stay readable in dark mode
+figure img {
+  background-color: #fff;
+}
